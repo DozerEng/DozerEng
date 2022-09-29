@@ -1,12 +1,11 @@
-***Welcome to Pillon Engineering!***
+## ***Welcome to Pillon Engineering!***
 
-**or Dozer engineering, or whatever I decide to call myself tomorrow!**
+Hi, I’m Mike, I’m an electrical engineering student in my 4th year at the University of Victoria.
 
-- 👋 Hi, I’m Michael
-- 👀 I’m an electrical engineering student in my 3rd year.
-- 🌱 I have an equal love for both software and hardware and my projects tend between C or C++ embedded and/or NodeJS web servers.
-- 💞️ I'm an avid maker with years of 3D design and 3D printing experience and have recently got involved with DYI CNC.
-- 📫 How to reach me ... that's a good question...
+On this page you can find some of the person projects I've worked on over the last few years. I started with building websites using vanilla Javascript and then started learning hardware. You'll find a lot of NodeJS fullstack projects (of varying quality!) which I run on various single board computers. I do a lot more embedded design these days and tend to use C or C++ to work with various microcontrollers, often on custom PCBSs. 
+
+### Thanks for stopping by!
+
 
 <!---
 DozerEng/DozerEng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
